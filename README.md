@@ -7,3 +7,6 @@
 * lucas apaza sist
 * sist apaza lucas
 * vent lucas apaza
+* main
+* dev2
+* rama3
